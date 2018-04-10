@@ -1,0 +1,20 @@
+#elevator,#empty,#target{
+	-fx-min-height:28;
+	-fx-max-height:28;
+	-fx-min-width:120;
+	-fx-max-width:120;
+	-fx-border-color:black;
+	-fx-border-width:1;
+	-fx-border-style:solid;
+	
+}
+
+#empty{
+	-fx-background-color: goldenrod;
+}
+#elevator{
+	-fx-background-color: lightgray;
+}
+#target{
+	-fx-background-color: yellow;
+}
